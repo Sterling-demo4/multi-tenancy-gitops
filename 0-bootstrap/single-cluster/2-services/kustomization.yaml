@@ -1,6 +1,7 @@
 resources:
 # IBM Software
 - argocd/instances/sealed-secrets.yaml
+- argocd/daemonset-sync-global-pullsecret.yaml
 - argocd/instances/ibm-sfg-db2-prod.yaml
 - argocd/instances/ibm-sfg-mq-prod.yaml
 - argocd/instances/ibm-sfg-b2bi-prod-setup.yaml
