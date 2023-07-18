@@ -4,9 +4,7 @@ resources:
     - argocd/namespace-sealed-secrets.yaml
     - argocd/serviceaccounts-b2bi-prod.yaml
     - argocd/sfg-b2bi-clusterwide.yaml
-    - argocd/namespace-connect-direct.yaml
-    - argocd/serviceaccounts-connect-direct.yaml
-    - argocd/sterling-cd-clusterwide.yaml
+
 #- argocd/consolelink.yaml
 #- argocd/consolenotification.yaml
 #- argocd/machine-configuration.yaml
