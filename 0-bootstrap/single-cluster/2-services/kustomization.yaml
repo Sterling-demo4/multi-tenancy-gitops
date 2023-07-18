@@ -8,6 +8,7 @@ resources:
 ## Connect Direct
 ## Connect Direct
 - argocd/instances/ibm-connect-direct-setup.yaml
+- argocd/instances/ibm-connect-direct.yaml
 ## Cloud Pak for Integration
 #- argocd/operators/ibm-ace-operator.yaml
 #- argocd/operators/ibm-apic-operator.yaml
